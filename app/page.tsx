@@ -384,7 +384,7 @@ export default function AIFlowSolutionPage() {
                 <h3 className="text-2xl font-semibold text-gray-900 mb-6">Get in Touch</h3>
                 <p className="text-lg text-gray-600 mb-8">
                   Ready to discuss how AI can transform your business operations? 
-                  I'm here to help you identify the best opportunities for automation and growth.
+                  I&apos;m here to help you identify the best opportunities for automation and growth.
                 </p>
               </div>
 
