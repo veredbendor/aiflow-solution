@@ -262,8 +262,8 @@ export default function AIFlowSolutionPage() {
                 ))}
               </div>
               <p className="text-gray-600 mb-6">
-                "Her technical solutions have made my business life significantly easier. When you find a consultant 
-                who consistently delivers this level of impact, you want to keep them involved long-term."
+                Her technical solutions have made my business life significantly easier. When you find a consultant 
+                who consistently delivers this level of impact, you want to keep them involved long-term.
               </p>
               <div className="font-semibold text-gray-900">Glenn, Business Owner</div>
             </div>
@@ -275,8 +275,8 @@ export default function AIFlowSolutionPage() {
                 ))}
               </div>
               <p className="text-gray-600 mb-6">
-                "She delivered a clean, complete implementation that saved us significant time and resources. 
-                When you need someone to tackle complex technical problems, she's the consultant to call."
+                She delivered a clean, complete implementation that saved us significant time and resources. 
+                When you need someone to tackle complex technical problems, she's the consultant to call.
               </p>
               <div className="font-semibold text-gray-900">Marcel, Senior Technology Lead</div>
             </div>
@@ -288,8 +288,8 @@ export default function AIFlowSolutionPage() {
                 ))}
               </div>
               <p className="text-gray-600 mb-6">
-                "Smart, results-driven, and delivers solutions that move the business forward. Her ability to translate 
-                business needs into effective technical implementations made a real impact."
+                Smart, results-driven, and delivers solutions that move the business forward. Her ability to translate 
+                business needs into effective technical implementations made a real impact.
               </p>
               <div className="font-semibold text-gray-900">Aaron, Director of Business Operations</div>
             </div>
