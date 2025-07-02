@@ -276,7 +276,7 @@ export default function AIFlowSolutionPage() {
               </div>
               <p className="text-gray-600 mb-6">
                 She delivered a clean, complete implementation that saved us significant time and resources. 
-                When you need someone to tackle complex technical problems, she's the consultant to call.
+                When you need someone to tackle complex technical problems, she&apos;s the consultant to call.
               </p>
               <div className="font-semibold text-gray-900">Marcel, Senior Technology Lead</div>
             </div>
