@@ -200,7 +200,7 @@ export default function AIFlowSolutionPage() {
                 Expert AI Implementation for Growing Businesses
               </h2>
               <p className="text-lg text-gray-600 mb-6">
-                With over 20 years of enterprise software experience at companies like eBay, AOL, and O'Reilly Media, 
+                With over 20 years of enterprise software experience at companies like eBay, AOL, and O&apos;Reilly Media, 
                 I bring deep technical expertise to every AI implementation.
               </p>
               <p className="text-lg text-gray-600 mb-8">
